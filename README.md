@@ -28,6 +28,6 @@ This mobile test framework uses the following tools:
   
 ## Running locally:
   - Start appium on localhost `127.0.0.1` and port `4723`
-  - Start your android emulator (by default Pixel 5 Android 13 configured)
+  - Start your android emulator (by default Pixel 5 Android 13 configured in the test)
   - Open the project in `VSCode` and on the terminal run `npm install` to install all dependencies
   - To run the tests: `npm run test`
